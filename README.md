@@ -16,7 +16,7 @@ Recursos Utilizados:
 ## Precio Dólar
 Reporte muestra la evolución y distribución del tipo de cambio del dólar estadounidense.
 En él es posible asociar el comportamiento del dólar en distintos contextos políticos y económicos de acuerdo con la fecha.
-El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API del Banco Central de Chile, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote \
+El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API del Banco Central de Chile, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
 [Var Reporte Aquí](https://app.powerbi.com/links/SBmFVP1AUp?ctid=36b6d413-3b6f-481a-bc9d-6689b511cafa&pbi_source=linkShare)\
 \
 Recursos Utilizados:
