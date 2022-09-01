@@ -1,5 +1,16 @@
 # Reportes
-Reportes con distintos indicadores y procesos. Construidos con fines recreativos
+Reportes con distintos indicadores y procesos. Construidos con fines recreativos y de aprendizaje
+
+## Fondos de Pensiones
+**Reporte en proceso de construcción.** \
+El objetivo es evaluar el desempeño de los distintos fondos de pensiones segun su nivel de riesgo, Administradora, valores cuotas y rentabilidades.\
+El proceso comienza con un scraping a la superintendencia de pensiones, los datos son procesados y guardados en una base de datos, y finalemnte son visualizados en el reprote. \
+[Ver Reprote Aquí](https://app.powerbi.com/links/tv0hw8pqLy?ctid=36b6d413-3b6f-481a-bc9d-6689b511cafa&pbi_source=linkShare)\
+\
+Recursos Utilizados:
+- Python (Anaconda)
+- SQL Server Managment
+- Power BI
 
 ## Palabras más Frecuentes en Medios Electrónicos
 Reporte muestra las palabras mas publicadas en los medios electrónicos como el diario financiero, el mostrador, la nación y la tercera.
