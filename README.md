@@ -2,9 +2,8 @@
 Reportes con distintos indicadores y procesos. Construidos con fines recreativos y de aprendizaje
 
 ## Fondos de Pensiones
-**Reporte en proceso de construcción.** \
 El objetivo es evaluar el desempeño de los distintos fondos de pensiones segun su nivel de riesgo, Administradora, valores cuotas y rentabilidades.\
-El proceso comienza con un scraping a la superintendencia de pensiones, los datos son procesados y guardados en una base de datos, y finalemnte son visualizados en el reprote. \
+El proceso comienza con un scraping a la [superintendencia de pensiones](https://www.spensiones.cl/apps/valoresCuotaFondo/vcfAFP.php), los datos son procesados y guardados en una base de datos, y finalmente son visualizados en el reprote. \
 [Ver Reprote Aquí](https://app.powerbi.com/view?r=eyJrIjoiZTk5ZDIyZjQtYjYyZi00OWQyLTlhNWItNTFkNzExNTZkNWJjIiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)\
 \
 Recursos Utilizados:
