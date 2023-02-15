@@ -35,5 +35,6 @@ Recursos Utilizados:
 - SQLite + SQLite ODBC Driver
 - Power BI
 \
+
 Versión Tableau Public
 [Ver Reporte Aquí](https://public.tableau.com/app/profile/sim.n3200/viz/TipodeCambioDolar/Dashboard1?publish=yes)
