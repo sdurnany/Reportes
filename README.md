@@ -32,7 +32,7 @@ El proceso se puede ejecutar a disposición del usuario, y parte con el envío d
 Recursos Utilizados:
 - Python (Anaconda)
 - API Banco Central
-- SQLite + SQLite ODBC Driver
+- SQL Server Managment
 - Power BI
 \
 
