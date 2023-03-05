@@ -26,7 +26,7 @@ Recursos Utilizados:
 ## Precio Dólar
 Reporte muestra la evolución y distribución del tipo de cambio del dólar estadounidense.
 En él es posible asociar el comportamiento del dólar en distintos contextos políticos y económicos de acuerdo con la fecha.
-El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API del Banco Central de Chile, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
+El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API de la CMF, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
 Power BI [Ver Reporte Aquí](https://app.powerbi.com/view?r=eyJrIjoiZGNiYTkyYTItOWQ4Yy00ZWVkLWIyZDAtYjU4YjU5YTIxMjM2IiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)
 \
 Tableau Public
@@ -35,7 +35,7 @@ Tableau Public
 \
 Recursos Utilizados:
 - Python (Anaconda)
-- API Banco Central
+- API CMF
 - SQL Server Managment
 - Pentaho (Solo para Tableau)
 
