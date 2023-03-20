@@ -23,7 +23,7 @@ Recursos Utilizados:
 - Power BI
 
 
-## Precio Dólar - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI pag 2
+## Precio Dólar - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI
 Reporte muestra la evolución y distribución del tipo de cambio del dólar estadounidense.
 En él es posible asociar el comportamiento del dólar en distintos contextos políticos y económicos de acuerdo con la fecha.
 El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API de la CMF, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
