@@ -23,13 +23,12 @@ Recursos Utilizados:
 - Power BI
 
 
-## Precio Dólar - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI
-Reporte muestra la evolución y distribución del tipo de cambio del dólar estadounidense.
-En él es posible asociar el comportamiento del dólar en distintos contextos políticos y económicos de acuerdo con la fecha.
+## Indicadores Economicos - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI
+Reporte muestra la evolución del dólar observado, Variacion mensual del IPC y valor de la UF.
 El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API de la CMF, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
 Power BI [Ver Reporte Aquí](https://app.powerbi.com/view?r=eyJrIjoiZGNiYTkyYTItOWQ4Yy00ZWVkLWIyZDAtYjU4YjU5YTIxMjM2IiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)
 \
-Tableau Public
+Tableau Public (Primera Versión)
 [Ver Reporte Aquí](https://public.tableau.com/app/profile/sim.n3200/viz/TipodeCambioDolar/Dashboard1?publish=yes)
 \
 \
@@ -37,5 +36,5 @@ Recursos Utilizados:
 - Python (Anaconda)
 - API CMF
 - SQL Server Managment
-- Pentaho (Solo para Tableau)
+- Pentaho Spoon (Solo para Tableau)
 
