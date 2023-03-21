@@ -11,18 +11,6 @@ Recursos Utilizados:
 - SQL Server Managment
 - Power BI
 
-## Palabras más Frecuentes en Medios Electrónicos
-Reporte muestra las palabras mas publicadas en los medios electrónicos como el diario financiero, el mostrador, la nación y la tercera.
-En él se ven palabras asociadas a tendencias políticas y económicas como el proceso constituyente y la crisis política en Taiwán.\
-El proceso se ejecuta idealmente de forma diaria e incorpora un scraping a los cuatro medios digitales, donde se extraen las palabras, seguido de un proceso de depuración de datos y almacenamiento en una base de datos, terminando con la visualización de los datos en el siguiente link. \
-[Ver Reprote Aquí](https://app.powerbi.com/view?r=eyJrIjoiYmE2ZjJhODEtMjkwOS00ZDExLTg4YmUtNmU5MzQwMDUwODA0IiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)\
-\
-Recursos Utilizados:
-- Python (Anaconda)
-- SQL Server Managment
-- Power BI
-
-
 ## Indicadores Economicos - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI
 Reporte muestra la evolución del dólar observado, Variacion mensual del IPC y valor de la UF.
 El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API de la CMF, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. \
@@ -38,3 +26,13 @@ Recursos Utilizados:
 - SQL Server Managment
 - Pentaho Spoon (Solo para Tableau)
 
+## Palabras más Frecuentes en Medios Electrónicos
+Reporte muestra las palabras mas publicadas en los medios electrónicos como el diario financiero, el mostrador, la nación y la tercera.
+En él se ven palabras asociadas a tendencias políticas y económicas como el proceso constituyente y la crisis política en Taiwán.\
+El proceso se ejecuta idealmente de forma diaria e incorpora un scraping a los cuatro medios digitales, donde se extraen las palabras, seguido de un proceso de depuración de datos y almacenamiento en una base de datos, terminando con la visualización de los datos en el siguiente link. \
+[Ver Reprote Aquí](https://app.powerbi.com/view?r=eyJrIjoiYmE2ZjJhODEtMjkwOS00ZDExLTg4YmUtNmU5MzQwMDUwODA0IiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)\
+\
+Recursos Utilizados:
+- Python (Anaconda)
+- SQL Server Managment
+- Power BI
