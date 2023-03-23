@@ -12,7 +12,7 @@ Recursos Utilizados:
 - Power BI
 
 ## Indicadores Economicos - 🔴 En Mejora, Añadiendo otros indicadores en versión PBI
-Reporte muestra la evolución del dólar observado, Variacion mensual del IPC y valor de la UF y TMP.
+Reporte muestra la evolución del dólar observado, Variación mensual del IPC y valor de la UF y TMP.
 El proceso se puede ejecutar a disposición del usuario, y parte con el envío de un requerimiento a la API de la CMF, la cual retorna datos que luego son procesados y almacenado en una base de datos, para posteriormente ser visaulizados en el reprote. Para el caso de la TPM, el proceso de captura de datos se realiza con un scraping al Banco central. \
 Power BI [Ver Reporte Aquí](https://app.powerbi.com/view?r=eyJrIjoiZGNiYTkyYTItOWQ4Yy00ZWVkLWIyZDAtYjU4YjU5YTIxMjM2IiwidCI6IjM2YjZkNDEzLTNiNmYtNDgxYS1iYzlkLTY2ODliNTExY2FmYSIsImMiOjR9)
 \
